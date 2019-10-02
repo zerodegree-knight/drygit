@@ -1,2 +1,2 @@
-# drygit
-this is called drying repository
+# try-git
+this is called trying git and getting familiar
