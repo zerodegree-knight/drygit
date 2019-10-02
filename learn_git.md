@@ -1,6 +1,6 @@
 
 
-##Clone the Repository
+## Clone the Repository
 
 To make your own local copy of the repository you would like to contribute to, let's first open up a terminal window.
 
@@ -27,7 +27,7 @@ When creating a branch, it is very important that you create your new branch off
 
 To create our branch, from our terminal window, let's change our directory so that we are working in the directory of the repository. Be sure to use the actual name of the repository (such as netbox) to change into that directory.
 
-##cd repository
+## cd repository
 
 Now, we'll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
